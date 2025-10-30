@@ -42,11 +42,23 @@ jobs:
           .DS_Store
           Thumbs.db
     
-    - name: Verify archive contents
+    - name: Verify archive contents and generate hash
       run: |
         echo "Archive created successfully!"
         ls -la release.zip
+        echo "Archive contents (first 20 entries):"
         unzip -l release.zip | head -20
+        echo ""
+        echo "Generating hashes..."
+        echo "SHA256: $(sha256sum release.zip | cut -d' ' -f1)"
+        echo "SHA1: $(sha1sum release.zip | cut -d' ' -f1)"
+        echo "MD5: $(md5sum release.zip | cut -d' ' -f1)"
+        
+        # Save hashes to environment for use in release notes
+        echo "PACK_SHA256=$(sha256sum release.zip | cut -d' ' -f1)" >> $GITHUB_ENV
+        echo "PACK_SHA1=$(sha1sum release.zip | cut -d' ' -f1)" >> $GITHUB_ENV
+        echo "PACK_MD5=$(md5sum release.zip | cut -d' ' -f1)" >> $GITHUB_ENV
+        echo "PACK_SIZE=$(stat -f%z release.zip 2>/dev/null || stat -c%s release.zip)" >> $GITHUB_ENV
     
     - name: Create GitHub Release
       uses: softprops/action-gh-release@v2
@@ -58,12 +70,22 @@ jobs:
           
           Automatically generated resource pack for Minecraft servers.
           
-          **Usage:**
-          - Download `release.zip` and upload to your server
-          - Or use the direct URL in ForcePacks: `https://github.com/${{ github.repository }}/releases/download/release/release.zip`
+          ## 📥 Usage
+          - **Download:** Click `release.zip` below to download manually
+          - **ForcePacks URL:** `https://github.com/${{ github.repository }}/releases/download/release/release.zip`
+          - **Direct integration:** Use the URL above in your server's ForcePacks plugin configuration
           
-          **Generated:** ${{ github.run_id }}
-          **Commit:** ${{ github.sha }}
+          ## 🔐 File Verification
+          **File Size:** ${{ env.PACK_SIZE }} bytes
+          **SHA256:** `${{ env.PACK_SHA256 }}`
+          **SHA1:** `${{ env.PACK_SHA1 }}`
+          **MD5:** `${{ env.PACK_MD5 }}`
+          
+          ## 📊 Build Information
+          **Generated:** ${{ github.event.head_commit.timestamp }}
+          **Workflow Run:** ${{ github.run_id }}
+          **Commit:** [`${{ github.sha }}`](https://github.com/${{ github.repository }}/commit/${{ github.sha }})
+          **Branch:** ${{ github.ref_name }}
         files: |
           release.zip
         prerelease: false

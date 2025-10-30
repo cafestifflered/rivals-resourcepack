@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:sandslash",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:sandslash",
+      "model": "cobblemon:sandslash_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/sandslash.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate2"],
+      "poser": "cobblemon:sandslash",
+      "model": "cobblemon:sandslash_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/sandslash2.png",
+      "layers": []
+    }
+  ]
+}
+

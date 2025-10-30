@@ -1,0 +1,9 @@
+{
+  "parent": "builtin/entity",
+  "gui_light": "side",
+  "overrides":[
+  {
+	  "model":"cobblemon:item/pokemon_model_bigger","predicate":{"custom_model_data":1}
+	  }
+	  ]
+}

@@ -1,0 +1,44 @@
+{
+  "portraitScale": 1.8,
+  "portraitTranslation": [-0.1, -0.35, 0.0],
+  "profileScale": 1,
+  "profileTranslation": [0.0, 0.3, 0.0],
+  "rootBone": "tinkaton",
+  "animations": {
+    "faint": "q.bedrock_primary('tinkaton_halloween', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('tinkaton_halloween', 'cry')"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseName": "battle-standing",
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": ["q.look('head')", "q.bedrock('tinkaton_halloween', 'battle_idle')"],
+      "quirks": ["q.bedrock_quirk('tinkaton_halloween', 'blink')"]
+    },
+    "standing": {
+      "poseName": "standing",
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": ["q.look('head')", "q.bedrock('tinkaton_halloween', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('tinkaton_halloween', 'blink')"],
+      "transitions": {
+        "sleeping": "q.bedrock_primary('tinkaton_halloween', 'sleep_transition')"
+      }
+    },
+    "walking": {
+      "poseName": "walking",
+      "poseTypes": ["WALK"],
+      "animations": ["q.look('head')", "q.bedrock('tinkaton_halloween', 'ground_walk')"],
+      "quirks": ["q.bedrock_quirk('tinkaton_halloween', 'blink')"],
+      "transitions": {
+        "sleeping": "q.bedrock_primary('tinkaton_halloween', 'sleep_transition')"
+      }
+    },
+    "sleeping": {
+      "poseName": "sleeping",
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('tinkaton_halloween', 'sleep')"]
+    }
+  }
+}

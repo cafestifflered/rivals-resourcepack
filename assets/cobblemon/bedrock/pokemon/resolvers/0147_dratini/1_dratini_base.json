@@ -1,0 +1,13 @@
+{
+  "species": "cobblemon:dratini",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:dratini",
+      "model": "cobblemon:dratini_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/dratini.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:diglett",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["summercrate"],
+      "poser": "cobblemon:diglett",
+      "model": "cobblemon:diglett_summer.geo",
+      "texture": "cobblemon:textures/pokemon/summercrate/diglett_summer.png",
+      "layers": []
+    },
+    {
+      "aspects": ["summercrate", "shiny"],
+      "texture": "cobblemon:textures/pokemon/summercrate/diglett_summer_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}
+
+

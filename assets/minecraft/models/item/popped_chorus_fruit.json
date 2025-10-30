@@ -1,0 +1,30 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/popped_chorus_fruit"
+ },
+ 
+ "overrides": [
+  {"predicate":{"custom_model_data":1369},"model": "item/crate/crate_items_holdables/limited_swapper"},
+  {"predicate":{"custom_model_data":1469},"model": "item/crate/crate_items_holdables/regular_swapper"},
+
+  {"predicate": {"custom_model_data":2420}, "model": "item/other/tms/normal"},
+  {"predicate": {"custom_model_data":2520}, "model": "item/other/tms/fire"},
+  {"predicate": {"custom_model_data":2620}, "model": "item/other/tms/water"},
+  {"predicate": {"custom_model_data":2720}, "model": "item/other/tms/grass"},
+  {"predicate": {"custom_model_data":2820}, "model": "item/other/tms/electric"},
+  {"predicate": {"custom_model_data":2920}, "model": "item/other/tms/ice"},
+  {"predicate": {"custom_model_data":21020}, "model": "item/other/tms/fighting"},
+  {"predicate": {"custom_model_data":21120}, "model": "item/other/tms/poison"},
+  {"predicate": {"custom_model_data":21220}, "model": "item/other/tms/ground"},
+  {"predicate": {"custom_model_data":21320}, "model": "item/other/tms/flying"},
+  {"predicate": {"custom_model_data":21420}, "model": "item/other/tms/psychic"},
+  {"predicate": {"custom_model_data":21520}, "model": "item/other/tms/bug"},
+  {"predicate": {"custom_model_data":21620}, "model": "item/other/tms/rock"},
+  {"predicate": {"custom_model_data":21720}, "model": "item/other/tms/ghost"},
+  {"predicate": {"custom_model_data":21820}, "model": "item/other/tms/dragon"},
+  {"predicate": {"custom_model_data":21920}, "model": "item/other/tms/dark"},
+  {"predicate": {"custom_model_data":22020}, "model": "item/other/tms/steel"},
+  {"predicate": {"custom_model_data":22120}, "model": "item/other/tms/fairy"}
+ ]
+}

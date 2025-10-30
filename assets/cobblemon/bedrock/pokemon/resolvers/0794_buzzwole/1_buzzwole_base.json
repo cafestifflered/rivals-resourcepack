@@ -1,0 +1,12 @@
+{
+  "species": "cobblemon:buzzwole",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:buzzwole",
+      "model": "cobblemon:buzzwole.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/buzzwole.png"
+    }
+  ]
+}

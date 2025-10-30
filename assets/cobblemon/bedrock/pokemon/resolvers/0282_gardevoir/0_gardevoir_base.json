@@ -1,0 +1,80 @@
+{
+  "species": "cobblemon:gardevoir",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:gardevoir",
+      "model": "cobblemon:gardevoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/gardevoir.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/gardevoir_shiny.png"
+    },
+    {
+      "aspects": ["mega"],
+      "model": "cobblemon:gardevoirmega.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/megagardevoir.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "mega", "shiny" ],
+      "model": "cobblemon:gardevoirmega.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/megagardevoir_shiny.png"
+    },
+    {
+      "aspects": ["halloweencrate"],
+      "poser": "cobblemon:gardevoir_ghostbride",
+      "model": "cobblemon:ghostbride_gardevoir.geo",
+      "texture": "cobblemon:textures/pokemon/halloweencrate/gardevoir_ghostbride.png",
+      "layers": [
+        {
+        "name": "emissive",
+        "texture": {
+          "frames": [
+            "cobblemon:textures/pokemon/halloweencrate/gardevoir_emissive_ghostbride.png"
+          ],
+          "fps": 0,
+          "loop": false,
+          "translucent": true
+        },
+        "emissive": true
+      },
+      {
+        "name": "emissive",
+        "emissive": true,
+        "texture": "cobblemon:textures/pokemon/halloweencrate/gardevoir_emissive_ghostbride.png",
+        "translucent": true
+  }
+      ]
+    },
+    {
+      "aspects": ["halloweencrate", "shiny"],
+      "poser": "cobblemon:gardevoir_ghostbride",
+      "model": "cobblemon:ghostbride_gardevoir.geo",
+      "texture": "cobblemon:textures/pokemon/halloweencrate/gardevoir_ghostbride_shiny.png",
+      "layers": [
+        {
+        "name": "emissive",
+        "texture": {
+          "frames": [
+            "cobblemon:textures/pokemon/halloweencrate/gardevoir_emissive_ghostbride_shiny.png"
+          ],
+          "fps": 0,
+          "loop": false,
+          "translucent": true
+        },
+        "emissive": true
+      },
+      {
+        "name": "emissive",
+        "emissive": true,
+        "texture": "cobblemon:textures/pokemon/halloweencrate/gardevoir_emissive_ghostbride_shiny.png",
+        "translucent": true
+  }
+      ]
+    }
+  ]
+}

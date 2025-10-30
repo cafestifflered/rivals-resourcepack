@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:nickit",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:nickit",
+      "model": "cobblemon:nickit_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/nickit.png",
+      "layers": []
+    }
+  ]
+}
+

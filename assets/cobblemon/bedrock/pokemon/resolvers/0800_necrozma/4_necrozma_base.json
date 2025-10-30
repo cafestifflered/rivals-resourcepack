@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:necrozma",
+  "order": 4,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:necrozma",
+      "model": "cobblemon:necrozma.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/necrozma.png"
+    },
+    {
+      "aspects": ["shadowlegend", "ultra-fusion"],
+      "poser": "cobblemon:necrozma",
+      "model": "cobblemon:necrozma_ultra.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/necrozma_ultra.png"
+    },
+    {
+      "aspects": ["shadowlegend", "dawn-fusion"],
+      "poser": "cobblemon:necrozma_dawnwings",
+      "model": "cobblemon:necrozma_dawn_wings.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/necrozma_dawnwings.png"
+    },
+    {
+      "aspects": ["shadowlegend", "dusk-fusion"],
+      "poser": "cobblemon:necrozma_duskmane",
+      "model": "cobblemon:necrozma_dusk_mane.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/necrozma_duskmane.png"
+    }
+  ]
+}

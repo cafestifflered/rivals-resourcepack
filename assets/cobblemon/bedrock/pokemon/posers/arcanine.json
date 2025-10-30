@@ -1,0 +1,33 @@
+{
+  "portraitScale": 1.37,
+  "portraitTranslation": [-0.58, 1.21, 0.0],
+  "profileScale": 0.58,
+  "profileTranslation": [0.14, 0.92, 0.0],
+  "rootBone": "arcanine",
+  "animations": {
+    "cry": "q.bedrock_stateful('arcanine', 'cry')"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseName": "battle-standing",
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": ["q.look('head')", "q.bedrock('arcanine', 'battle_idle')"],
+      "quirks": ["q.bedrock_quirk('arcanine', 'blink')"]
+    },
+	"standing": {
+      "poseTypes": ["STAND", "NONE", "FLOAT", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": ["q.look('head')", "q.bedrock('arcanine', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('arcanine', 'blink')"]
+    },
+    "walking": {
+      "poseTypes": ["WALK", "SWIM"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('arcanine', 'ground_walk')"
+      ],
+      "quirks": ["q.bedrock_quirk('arcanine', 'blink')"]
+    }
+  }
+}

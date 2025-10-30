@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:carnivine",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:carnivine",
+      "model": "cobblemon:carnivine_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/carnivine.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate2"],
+      "poser": "cobblemon:carnivine",
+      "model": "cobblemon:carnivine_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/carnivine2.png",
+      "layers": []
+    }
+  ]
+}
+

@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:luxio",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:luxio",
+      "model": "cobblemon:luxio_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/luxio.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate2"],
+      "poser": "cobblemon:luxio",
+      "model": "cobblemon:luxio_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/luxio2.png",
+      "layers": []
+    }
+  ]
+}
+

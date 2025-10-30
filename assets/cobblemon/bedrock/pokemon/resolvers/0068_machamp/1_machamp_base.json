@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:machamp",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["summercrate"],
+      "poser": "cobblemon:machamp",
+      "model": "cobblemon:machamp_summer.geo",
+      "texture": "cobblemon:textures/pokemon/summercrate/machamp_summer.png",
+      "layers": []
+    },
+    {
+      "aspects": ["summercrate", "shiny"],
+      "texture": "cobblemon:textures/pokemon/summercrate/machamp_summer_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:applin",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["summercrate"],
+      "poser": "cobblemon:applin_summer",
+      "model": "cobblemon:applin_summer.geo",
+      "texture": "cobblemon:textures/pokemon/summercrate/applin_summer.png",
+      "layers": []
+    },
+    {
+      "aspects": ["summercrate", "shiny"],
+      "texture": "cobblemon:textures/pokemon/summercrate/applin_summer_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

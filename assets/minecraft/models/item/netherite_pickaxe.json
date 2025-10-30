@@ -1,0 +1,11 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/netherite_pickaxe"
+ },
+ 
+ "overrides": [
+  {"predicate": {"custom_model_data":8000}, "model": "item/bundles/medieval_bundle/cyclops_pickaxe"},
+  {"predicate": {"custom_model_data":8001}, "model": "item/bundles/trainer_bundle/trainer_pickaxe"}
+]
+}

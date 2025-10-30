@@ -1,0 +1,15 @@
+{
+    "parent": "minecraft:block/carved_pumpkin",
+    "overrides":[
+      {"predicate":{"custom_model_data":1},"model": "item/cosmetics/rank_hats/gyarados"},
+      {"predicate":{"custom_model_data":2},"model": "item/cosmetics/rank_hats/snorlax"},
+      {"predicate":{"custom_model_data":3},"model": "item/cosmetics/rank_hats/charizard"},
+      {"predicate":{"custom_model_data":4},"model": "item/cosmetics/rank_hats/garchomp"},
+      {"predicate":{"custom_model_data":5},"model": "item/cosmetics/rank_hats/lucario"},
+      {"predicate":{"custom_model_data":6},"model": "item/cosmetics/rank_hats/pikachu"},
+      {"predicate":{"custom_model_data":7},"model": "item/cosmetics/rank_hats/charmander"},
+      {"predicate":{"custom_model_data":8},"model": "item/cosmetics/rank_hats/gengar"},
+      {"predicate":{"custom_model_data":9},"model": "item/cosmetics/hats/magikarp"},
+      {"predicate":{"custom_model_data":10},"model": "item/cosmetics/hats/magikarp_shiny"}
+    ] 
+}

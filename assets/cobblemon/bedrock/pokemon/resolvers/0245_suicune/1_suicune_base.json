@@ -1,0 +1,12 @@
+{
+  "species": "cobblemon:suicune",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:suicune",
+      "model": "cobblemon:suicune.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/suicune.png"
+    }
+  ]
+}

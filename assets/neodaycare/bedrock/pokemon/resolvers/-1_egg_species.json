@@ -1,0 +1,41 @@
+{
+  "species": "neodaycare:egg_species",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "neodaycare:egg",
+      "texture": "neodaycare:textures/egg/normal/stage_0.png",
+      "model": "neodaycare:egg.geo",
+      "layers": []
+    },
+    {
+      "aspects": ["stage_1"],
+      "texture": "neodaycare:textures/egg/normal/stage_1.png"
+    },
+    {
+      "aspects": ["stage_2"],
+      "texture": "neodaycare:textures/egg/normal/stage_2.png"
+    },
+    {
+      "aspects": ["stage_3"],
+      "texture": "neodaycare:textures/egg/normal/stage_3.png"
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "neodaycare:textures/egg/shiny/stage_0.png"
+    },
+    {
+      "aspects": ["shiny", "stage_1"],
+      "texture": "neodaycare:textures/egg/shiny/stage_1.png"
+    },
+    {
+      "aspects": ["shiny", "stage_2"],
+      "texture": "neodaycare:textures/egg/shiny/stage_2.png"
+    },
+    {
+      "aspects": ["shiny", "stage_3"],
+      "texture": "neodaycare:textures/egg/shiny/stage_3.png"
+    }
+  ]
+}

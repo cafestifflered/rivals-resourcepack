@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:vileplume",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:vileplume",
+      "model": "cobblemon:vileplume_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/vileplume.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate2"],
+      "poser": "cobblemon:vileplume",
+      "model": "cobblemon:vileplume_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/vileplume2.png",
+      "layers": []
+    }
+  ]
+}
+

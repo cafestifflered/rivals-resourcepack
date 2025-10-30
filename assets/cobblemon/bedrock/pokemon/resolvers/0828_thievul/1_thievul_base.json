@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:thievul",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:thievul",
+      "model": "cobblemon:thievul_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/thievul.png",
+      "layers": []
+    }
+  ]
+}
+

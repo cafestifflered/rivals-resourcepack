@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:snorlax",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["rivalcrate"],
+      "poser": "cobblemon:snorlax",
+      "model": "cobblemon:snorlax_rival.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/snorlax.png",
+      "layers": []
+    },
+    {
+      "aspects": ["staffcrate"],
+      "poser": "cobblemon:snorlax",
+      "model": "cobblemon:snorlax_staff.geo",
+      "texture": "cobblemon:textures/pokemon/staffcrate/snorlax.png",
+      "layers": []
+    }
+  ]
+}
+

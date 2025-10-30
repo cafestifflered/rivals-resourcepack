@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:luxray",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:luxray",
+      "model": "cobblemon:luxray_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/luxray.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate2"],
+      "poser": "cobblemon:luxray",
+      "model": "cobblemon:luxray_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/luxray2.png",
+      "layers": []
+    }
+  ]
+}
+

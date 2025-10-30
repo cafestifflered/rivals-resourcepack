@@ -1,0 +1,28 @@
+{
+  "species": "cobblemon:pidgeotto",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:pidgeotto",
+      "model": "cobblemon:pidgeotto_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/pidgeotto.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate2"],
+      "poser": "cobblemon:pidgeotto",
+      "model": "cobblemon:pidgeotto_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/pidgeotto2.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate3"],
+      "poser": "cobblemon:pidgeotto",
+      "model": "cobblemon:pidgeotto_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/pidgeotto3.png",
+      "layers": []
+    }
+  ]
+}
+

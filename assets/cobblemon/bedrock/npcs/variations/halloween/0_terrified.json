@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:terrified",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:alex.geo",
+      "texture": "cobblemon:textures/npcs/halloween/terrified.png",
+      "layers": []
+    }
+  ]
+}

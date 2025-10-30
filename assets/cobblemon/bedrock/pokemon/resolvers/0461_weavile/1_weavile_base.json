@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:weavile",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["medievalcrate"],
+      "poser": "cobblemon:weavile",
+      "model": "cobblemon:weavile_medieval.geo",
+      "texture": "cobblemon:textures/pokemon/medievalcrate/weavile.png",
+      "layers": []
+    }
+  ]
+}
+

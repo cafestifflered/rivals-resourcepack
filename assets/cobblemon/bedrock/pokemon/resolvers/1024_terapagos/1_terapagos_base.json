@@ -1,0 +1,12 @@
+{
+  "species": "cobblemon:terapagos",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:terapagos",
+      "model": "cobblemon:terapagos.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/terapagos.png"
+    }
+  ]
+}

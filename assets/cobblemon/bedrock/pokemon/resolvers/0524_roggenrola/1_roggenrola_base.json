@@ -1,0 +1,40 @@
+{
+  "species": "cobblemon:roggenrola",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:roggenrola",
+      "model": "cobblemon:roggenrola_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/roggenrola.png",
+      "layers": []
+    },
+    {
+      "aspects": ["crystalcrate"],
+      "poser": "cobblemon:roggenrola",
+      "model": "cobblemon:roggenrola.geo",
+      "texture": "cobblemon:textures/pokemon/crystalcrate/roggenrola.png",
+      "layers": [
+        {
+        "name": "emissive",
+        "texture": {
+          "frames": [
+            "cobblemon:textures/pokemon/crystalcrate/roggenrola_e.png"
+          ],
+          "fps": 0,
+          "loop": false,
+          "translucent": true
+        },
+        "emissive": true
+      },
+      {
+        "name": "emissive",
+        "emissive": true,
+        "texture": "cobblemon:textures/pokemon/crystalcrate/roggenrola_e.png",
+        "translucent": true
+  }
+    ]
+    }
+  ]
+}
+

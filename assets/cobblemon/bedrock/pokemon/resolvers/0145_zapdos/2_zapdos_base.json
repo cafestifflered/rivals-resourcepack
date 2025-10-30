@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:zapdos",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:zapdos",
+      "model": "cobblemon:zapdos.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/zapdos.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shadowlegend", "galarian"],
+      "poser": "cobblemon:zapdos_galar",
+      "model": "cobblemon:zapdos_galar.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/zapdos_galar.png",
+      "layers": []
+    }
+  ]
+}
+

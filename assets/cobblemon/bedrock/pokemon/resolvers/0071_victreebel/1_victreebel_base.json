@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:victreebel",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["crystalcrate"],
+      "poser": "cobblemon:victreebel",
+      "model": "cobblemon:victreebel.geo",
+      "texture": "cobblemon:textures/pokemon/crystalcrate/victreebel.png",
+      "layers": [
+        {
+        "name": "emissive",
+        "texture": {
+          "frames": [
+            "cobblemon:textures/pokemon/crystalcrate/victreebel_e.png"
+          ],
+          "fps": 0,
+          "loop": false,
+          "translucent": true
+        },
+        "emissive": true
+      },
+      {
+        "name": "emissive",
+        "emissive": true,
+        "texture": "cobblemon:textures/pokemon/crystalcrate/victreebel_e.png",
+        "translucent": true
+  }
+    ]
+    }
+  ]
+}
+

@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:squirtle",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["staffcrate"],
+      "poser": "cobblemon:squirtle",
+      "model": "cobblemon:squirtle_staff.geo",
+      "texture": "cobblemon:textures/pokemon/staffcrate/squirtle.png",
+      "layers": []
+    }
+  ]
+}
+

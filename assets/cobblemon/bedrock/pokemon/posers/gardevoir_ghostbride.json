@@ -1,0 +1,44 @@
+{
+    "head": "head",
+    "portraitScale": 1.5,
+    "portraitTranslation": [ -0, 1.5, 0 ],
+    "profileScale": 0.65,
+    "profileTranslation": [ 0, 0.75, 0 ],
+    "animations": {
+    "cry": "q.bedrock_stateful('gardevoir_ghostbride', 'cry')"
+  },
+    "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(gardevoir_ghostbride, ground_idle)"
+          
+        ]
+
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ "bedrock(gardevoir_ghostbride, ground_walk)" ]
+      },
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": ["q.look('head')", "q.bedrock('gardevoir_ghostbride', 'battle_idle')"],
+      "quirks": ["q.bedrock_quirk('gardevoir_ghostbride', 'blink')"]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('gardevoir_ghostbride', 'sleep')"]
+    }
+    }
+  }
+  

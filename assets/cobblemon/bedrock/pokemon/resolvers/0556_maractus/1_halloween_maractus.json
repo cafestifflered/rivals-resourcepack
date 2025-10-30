@@ -1,0 +1,24 @@
+{
+   "species":"cobblemon:maractus",
+   "order":2,
+   "variations":[
+      {
+         "aspects":[
+            "halloweencrate"
+         ],
+         "poser":"cobblemon:maractus",
+         "model":"cobblemon:halloween_maractus.geo",
+         "texture":"cobblemon:textures/pokemon/halloweencrate/maractus.png",
+         "layers":[]
+      },
+      {
+         "aspects":[
+            "halloweencrate" , "shiny"
+         ],
+         "poser":"cobblemon:maractus",
+         "model":"cobblemon:halloween_maractus.geo",
+         "texture":"cobblemon:textures/pokemon/halloweencrate/maractus_shiny.png",
+         "layers":[]
+      }
+   ]
+}

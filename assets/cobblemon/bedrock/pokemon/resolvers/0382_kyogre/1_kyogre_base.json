@@ -1,0 +1,13 @@
+{
+  "species": "cobblemon:kyogre",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:kyogre",
+      "model": "cobblemon:kyogre.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/kyogre.png",
+      "layers": []
+    }
+  ]
+}

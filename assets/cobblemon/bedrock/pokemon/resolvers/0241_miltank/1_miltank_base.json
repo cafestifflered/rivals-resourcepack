@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:miltank",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["brainrot"],
+      "poser": "cobblemon:miltank",
+      "model": "cobblemon:miltank_brainrot.geo",
+      "texture": "cobblemon:textures/pokemon/brainrot/miltank.png",
+      "layers": []
+    }
+  ]
+}
+

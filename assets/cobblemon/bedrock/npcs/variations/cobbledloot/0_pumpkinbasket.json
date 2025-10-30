@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:pumpkinbasket",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:pumpkinbasket.geo",
+      "texture": "cobblemon:textures/npcs/cobbledloot/pumpkinbasket.png",
+      "layers": []
+    }
+  ]
+}

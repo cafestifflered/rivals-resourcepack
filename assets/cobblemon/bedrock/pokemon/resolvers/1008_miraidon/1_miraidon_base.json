@@ -1,0 +1,12 @@
+{
+  "species": "cobblemon:miraidon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:miraidon",
+      "model": "cobblemon:miraidon.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/miraidon.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:noctowl",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:noctowl",
+      "model": "cobblemon:noctowl_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/noctowl.png",
+      "layers": []
+    }
+  ]
+}
+

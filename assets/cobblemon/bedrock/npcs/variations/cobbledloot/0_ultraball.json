@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:ultraball",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:pokeball.geo",
+      "texture": "cobblemon:textures/npcs/cobbledloot/ultraball.png",
+      "layers": []
+    }
+  ]
+}

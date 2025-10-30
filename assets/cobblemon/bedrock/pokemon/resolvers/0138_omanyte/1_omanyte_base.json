@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:omanyte",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["summercrate"],
+      "poser": "cobblemon:omanyte",
+      "model": "cobblemon:omanyte_summer.geo",
+      "texture": "cobblemon:textures/pokemon/summercrate/omanyte_summer.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny"],
+      "texture": "cobblemon:textures/pokemon/summercrate/omanyte_summer_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}
+

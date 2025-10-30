@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "cobblemon:textures/npcs/cobbledloot/pokeball.png": "normal_sprite:regular/pokeball.png",
+    "cobblemon:textures/npcs/cobbledloot/greatball.png": "normal_sprite:regular/greatball.png",
+    "cobblemon:textures/npcs/cobbledloot/ultraball.png": "normal_sprite:regular/ultraball.png",
+    "cobblemon:textures/npcs/cobbledloot/masterball.png": "normal_sprite:regular/masterball.png",
+    "cobblemon:textures/npcs/cobbledloot/beachball.png": "normal_sprite:regular/beachball.png"
+  },
+
+  "modelConfigs": [
+    {
+      "baseScale": 1.0,
+      "rotationY": 0,
+      "rotationX": 0,
+      "rotationZ": 0,
+      "offsetX": 0,
+      "offsetY": 0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:cresselia",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:cresselia",
+      "model": "cobblemon:cresselia.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/cresselia.png",
+      "layers": []
+    }
+  ]
+}
+

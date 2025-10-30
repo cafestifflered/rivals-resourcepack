@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:wooloo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:wooloo",
+      "model": "cobblemon:wooloo_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/wooloo.png",
+      "layers": []
+    }
+  ]
+}
+

@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:milotic",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:milotic",
+      "model": "cobblemon:milotic_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/milotic.png",
+      "layers": []
+    }
+  ]
+}
+

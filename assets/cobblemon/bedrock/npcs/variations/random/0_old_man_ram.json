@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:old_man_ram",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:alex.geo",
+      "texture": "cobblemon:textures/npcs/random/old_man_ram.png",
+      "layers": []
+    }
+  ]
+}

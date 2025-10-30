@@ -1,0 +1,13 @@
+{
+  "species": "cobblemon:voltorb",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["football"],
+      "poser": "cobblemon:voltorb",
+      "model": "cobblemon:voltorb.geo",
+      "texture": "cobblemon:textures/pokemon/random/voltorb_ball.png",
+      "layers": []
+    }
+  ]
+}

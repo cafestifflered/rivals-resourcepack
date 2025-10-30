@@ -1,0 +1,13 @@
+{
+  "species": "cobblemon:dragonair",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:dragonair",
+      "model": "cobblemon:dragonair_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/dragonair.png",
+      "layers": []
+    }
+  ]
+}

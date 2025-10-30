@@ -1,0 +1,60 @@
+{
+  "portraitScale": 2.5,
+  "portraitTranslation": [0.0, -2.3, 0.0],
+  "profileScale": 0.8,
+  "profileTranslation": [0.0, 0.5, 0.0],
+  "rootBone": "mimikyu",
+    "animations": {
+    "cry": "q.bedrock_stateful('mimikyu', 'cry')",
+	"physical": "q.bedrock_primary('mimikyu', 'physical', q.curve('symmetrical_wide'))",
+	"special": "q.bedrock_primary('mimikyu', 'physical', q.curve('symmetrical_wide'))",
+	"recoil": "q.bedrock_stateful('mimikyu', 'recoil')"
+  },
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "isBattle": false,
+      "animations": [
+        "q.bedrock('mimikyu', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('mimikyu', 'glare')"
+      ]
+    },
+	"battle-standing": {
+      "poseTypes": [
+        "STAND"
+      ],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('mimikyu', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('mimikyu', 'glare')"
+      ]
+    },
+	"walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('mimikyu', 'ground_walk')"
+      ]
+    },
+	"shoulder_left": {
+      "poseTypes": ["SHOULDER_LEFT"],
+      "animations": [
+        "q.bedrock('mimikyu', 'shoulder_left')"
+      ]
+    },
+	"shoulder_right": {
+      "poseTypes": ["SHOULDER_RIGHT"],
+      "animations": [
+        "q.bedrock('mimikyu', 'shoulder_right')"
+      ]
+    }
+  }
+}

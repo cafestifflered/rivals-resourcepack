@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:sunflora",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["brainrot"],
+      "poser": "cobblemon:sunflora",
+      "model": "cobblemon:sunflora_brainrot.geo",
+      "texture": "cobblemon:textures/pokemon/brainrot/sunflora.png",
+      "layers": []
+    }
+  ]
+}
+

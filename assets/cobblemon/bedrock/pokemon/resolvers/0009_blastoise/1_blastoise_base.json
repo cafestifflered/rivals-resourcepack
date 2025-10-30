@@ -1,0 +1,42 @@
+{
+  "species": "cobblemon:blastoise",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["rivalcrate"],
+      "poser": "cobblemon:blastoise",
+      "model": "cobblemon:blastoise_rival.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/blastoise.png",
+      "layers": []
+    },
+    {
+      "aspects": ["rivalcrate_tmnt1"],
+      "poser": "cobblemon:blastoise",
+      "model": "cobblemon:blastoise_rival.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/blastoise_tmnt1.png",
+      "layers": []
+    },
+    {
+      "aspects": ["rivalcrate_tmnt2"],
+      "poser": "cobblemon:blastoise",
+      "model": "cobblemon:blastoise_rival.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/blastoise_tmnt2.png",
+      "layers": []
+    },
+    {
+      "aspects": ["rivalcrate_tmnt3"],
+      "poser": "cobblemon:blastoise",
+      "model": "cobblemon:blastoise_rival.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/blastoise_tmnt3.png",
+      "layers": []
+    },
+    {
+      "aspects": ["rivalcrate_tmnt4"],
+      "poser": "cobblemon:blastoise",
+      "model": "cobblemon:blastoise_rival.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/blastoise_tmnt4.png",
+      "layers": []
+    }
+  ]
+}
+

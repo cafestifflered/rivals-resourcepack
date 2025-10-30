@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/egg"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "neodaycare:egg/egg_sprite_incompatible"},
+    {"predicate": {"custom_model_data": 2}, "model": "neodaycare:egg/egg_sprite_monochrome"},
+    {"predicate": {"custom_model_data": 3}, "model": "neodaycare:egg/egg_sprite"}
+  ]
+}

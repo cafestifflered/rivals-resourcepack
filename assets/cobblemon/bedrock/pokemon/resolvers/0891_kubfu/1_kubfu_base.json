@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:kubfu",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:kubfu",
+      "model": "cobblemon:kubfu.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/kubfu.png",
+      "layers": []
+    }
+  ]
+}
+

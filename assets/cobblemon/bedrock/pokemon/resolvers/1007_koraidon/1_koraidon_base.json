@@ -1,0 +1,12 @@
+{
+  "species": "cobblemon:koraidon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:koraidon",
+      "model": "cobblemon:koraidon.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/koraidon.png"
+    }
+  ]
+}

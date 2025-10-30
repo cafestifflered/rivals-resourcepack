@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:poke_sizer",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:alex.geo",
+      "texture": "cobblemon:textures/npcs/random/poke_sizer.png",
+      "layers": []
+    }
+  ]
+}

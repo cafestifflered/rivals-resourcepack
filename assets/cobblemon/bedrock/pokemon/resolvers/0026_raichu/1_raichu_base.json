@@ -1,0 +1,27 @@
+{
+  "species": "cobblemon:raichu",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:raichu",
+      "model": "cobblemon:raichu_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/raichu.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate2"],
+      "poser": "cobblemon:raichu",
+      "model": "cobblemon:raichu_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/raichu2.png",
+      "layers": []
+    },
+    {
+      "aspects": ["crystalcrate"],
+      "poser": "cobblemon:raichu",
+      "model": "cobblemon:raichu_male.geo",
+      "texture": "cobblemon:textures/pokemon/crystalcrate/raichu.png",
+      "layers": []
+    }
+  ]
+}

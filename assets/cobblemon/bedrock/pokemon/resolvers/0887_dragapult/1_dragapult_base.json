@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:dragapult",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["staffcrate"],
+      "poser": "cobblemon:dragapult",
+      "model": "cobblemon:dragapult_staff.geo",
+      "texture": "cobblemon:textures/pokemon/staffcrate/dragapult.png",
+      "layers": []
+    }
+  ]
+}
+

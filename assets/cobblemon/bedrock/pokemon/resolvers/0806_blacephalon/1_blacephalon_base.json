@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:blacephalon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:blacephalon",
+      "model": "cobblemon:blacephalon.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/blacephalon.png",
+      "layers": []
+    }
+  ]
+}
+

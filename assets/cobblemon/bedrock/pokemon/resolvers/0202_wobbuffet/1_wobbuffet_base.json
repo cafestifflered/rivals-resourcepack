@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:wobbuffet",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["rivalcrate"],
+      "poser": "cobblemon:wobbuffet",
+      "model": "cobblemon:wobbuffet_rival.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/wobbuffet.png",
+      "layers": []
+    }
+  ]
+}
+

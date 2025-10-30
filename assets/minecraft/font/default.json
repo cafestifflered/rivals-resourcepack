@@ -1,0 +1,557 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/pixel.png",
+            "ascent": -2000,
+            "height": -3,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ui/warp.png",
+            "ascent": 23,
+            "height": 256,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ui/warp2.png",
+            "ascent": 23,
+            "height": 256,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ui/shop.png",
+            "ascent": 52,
+            "height": 256,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ui/gts.png",
+            "ascent": 23,
+            "height": 256,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ui/itemshop.png",
+            "ascent": 23,
+            "height": 256,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ui/pokedex.png",
+            "ascent": 23,
+            "height": 256,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ui/pokedex_pokemon.png",
+            "ascent": 23,
+            "height": 256,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ui/badge_catalogue.png",
+            "ascent": 46,
+            "height": 256,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ui/realms.png",
+            "ascent": 40,
+            "height": 256,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/rivals_banner.png",
+            "ascent": 1,
+            "height": 64,
+            "chars": ["𓂅"]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/smp.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/begginer.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/rookie.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/trainer.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/professor.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/pro.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/elite.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/master.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/champion.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/rival.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/trialhelper.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/helper.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/artist.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/developer.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/mod.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/seniormod.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/manager.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/admin.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/ranks/owner.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/groudon.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/kyogre.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/articuno.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/celebi.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/lugia.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/resourceworld.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/spawn.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/zacian.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/servers/zekrom.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/champion_sprite.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/champion_sprite2.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/scoreboard_rank.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/scoreboard_balance.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/scoreboard_server.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/scoreboard_pokedex.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/scoreboard_playtime.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/info.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/rivals.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/daycare.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/wondertrade.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/join.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/star.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/starempty.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/sparkle.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/leave.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/mouse_left_click.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/icons/mouse_right_click.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_water.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_electric.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_ground.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_fire.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_ghost.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_grass.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_poison.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_dark.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_dragon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_bug.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_rock.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_steel.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_fairy.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_normal.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_flying.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_fighting.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_psychic.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/gymleader_icon_ice.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/elite1_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/elite2_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/elite3_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/elite4_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        }
+    ]
+}

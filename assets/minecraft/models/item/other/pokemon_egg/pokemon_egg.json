@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/other/pokemon_egg/pokemon_egg"
+  }
+}

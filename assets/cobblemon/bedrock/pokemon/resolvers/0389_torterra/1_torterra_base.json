@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:torterra",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["medievalcrate"],
+      "poser": "cobblemon:torterra",
+      "model": "cobblemon:torterra_medieval.geo",
+      "texture": "cobblemon:textures/pokemon/medievalcrate/torterra.png",
+      "layers": []
+    }
+  ]
+}
+

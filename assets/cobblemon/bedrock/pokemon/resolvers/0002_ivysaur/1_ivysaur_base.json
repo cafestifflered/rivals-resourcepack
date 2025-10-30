@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:ivysaur",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:ivysaur",
+      "model": "cobblemon:ivysaur_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/ivysaur.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate2"],
+      "poser": "cobblemon:ivysaur",
+      "model": "cobblemon:ivysaur_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/ivysaur2.png",
+      "layers": []
+    }
+  ]
+}
+

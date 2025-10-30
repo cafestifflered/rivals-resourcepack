@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:registeel",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:registeel",
+      "model": "cobblemon:registeel.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/registeel.png",
+      "layers": []
+    }
+  ]
+}
+

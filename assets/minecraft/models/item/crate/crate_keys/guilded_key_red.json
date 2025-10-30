@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/crate/crate_keys/guilded_key_red"
+  }
+}

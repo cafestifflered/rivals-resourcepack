@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:chesnaught",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["medievalcrate"],
+      "poser": "cobblemon:chesnaught",
+      "model": "cobblemon:chesnaught_medieval.geo",
+      "texture": "cobblemon:textures/pokemon/medievalcrate/chesnaught.png",
+      "layers": []
+    }
+  ]
+}
+

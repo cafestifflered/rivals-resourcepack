@@ -1,0 +1,12 @@
+{
+  "species": "cobblemon:spectrier",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:spectrier",
+      "model": "cobblemon:spectrier.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/spectrier.png"
+    }
+  ]
+}

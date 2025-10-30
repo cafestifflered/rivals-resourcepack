@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:hydrapple",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["summercrate"],
+      "poser": "cobblemon:hydrapple_summer",
+      "model": "cobblemon:hydrapple_summer.geo",
+      "texture": "cobblemon:textures/pokemon/summercrate/hydrapple_summer.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "summercrate", "shiny"],
+      "texture": "cobblemon:textures/pokemon/summercrate/hydrapple_summer_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

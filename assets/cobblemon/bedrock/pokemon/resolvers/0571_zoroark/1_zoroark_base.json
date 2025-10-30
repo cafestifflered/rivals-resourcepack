@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:zoroark",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["staffcrate"],
+      "poser": "cobblemon:zoroark",
+      "model": "cobblemon:zoroark_staff.geo",
+      "texture": "cobblemon:textures/pokemon/staffcrate/zoroark.png",
+      "layers": [
+        {
+        "name": "emissive",
+        "texture": {
+          "frames": [
+            "cobblemon:textures/pokemon/staffcrate/zoroark_emissive.png"
+          ],
+          "fps": 0,
+          "loop": false,
+          "translucent": true
+        },
+        "emissive": true
+      },
+      {
+        "name": "emissive",
+        "emissive": true,
+        "texture": "cobblemon:textures/pokemon/staffcrate/zoroark_emissive.png",
+        "translucent": true
+  }
+    ]
+    }
+  ]
+}
+

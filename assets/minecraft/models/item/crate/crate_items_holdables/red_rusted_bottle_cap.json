@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/crate/crate_items_holdables/red_rusted_bottle_cap"
+  }
+}

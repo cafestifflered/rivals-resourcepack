@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/crate/crates_sprites/2_cap_ability_activator"
+  }
+}

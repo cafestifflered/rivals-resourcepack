@@ -1,0 +1,12 @@
+{
+  "species": "cobblemon:chiyu",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:chiyu",
+      "model": "cobblemon:chiyu.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/chiyu.png"
+    }
+  ]
+}

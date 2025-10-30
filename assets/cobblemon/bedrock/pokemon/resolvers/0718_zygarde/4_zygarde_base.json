@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:zygarde",
+  "order": 4,
+  "variations": [
+    {
+      "aspects": ["shadowlegend", "complete"],
+      "poser": "cobblemon:zygarde_100percent",
+      "model": "cobblemon:zygarde_100percent.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/zygarde_100percent.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:zygarde",
+      "model": "cobblemon:zygarde.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/zygarde_50percent.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:dipplin",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["summercrate"],
+      "poser": "cobblemon:dipplin_summer",
+      "model": "cobblemon:dipplin_summer.geo",
+      "texture": "cobblemon:textures/pokemon/summercrate/dipplin_summer.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny"],
+      "texture": "cobblemon:textures/pokemon/summercrate/dipplin_summer_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "species": "cobblemon:bidoof",
+    "order": 1,
+    "variations": [
+      {
+        "aspects": ["brainrot"],
+        "poser": "cobblemon:bidoof",
+        "model": "cobblemon:bidoof_brainrot.geo",
+        "texture": "cobblemon:textures/pokemon/brainrot/bidoof.png",
+        "layers": []
+      }
+    ]
+  }
+  
+  

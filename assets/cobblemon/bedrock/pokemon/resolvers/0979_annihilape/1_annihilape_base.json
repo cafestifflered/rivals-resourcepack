@@ -1,0 +1,15 @@
+{
+    "species": "cobblemon:annihilape",
+    "order": 1,
+    "variations": [
+      {
+        "aspects": ["staffcrate"],
+        "poser": "cobblemon:annihilape",
+        "model": "cobblemon:annihilape_staff.geo",
+        "texture": "cobblemon:textures/pokemon/staffcrate/annihilape.png",
+        "layers": []
+      }
+    ]
+  }
+  
+  

@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:freddie_kreuger",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:alex.geo",
+      "texture": "cobblemon:textures/npcs/halloween/freddie_kreuger.png",
+      "layers": []
+    }
+  ]
+}

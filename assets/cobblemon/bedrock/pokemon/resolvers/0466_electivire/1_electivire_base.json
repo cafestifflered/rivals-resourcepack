@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:electivire",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["medievalcrate"],
+      "poser": "cobblemon:electivire",
+      "model": "cobblemon:electivire_medieval.geo",
+      "texture": "cobblemon:textures/pokemon/medievalcrate/electivire.png",
+      "layers": []
+    },
+    {
+      "aspects": ["rivalcrate"],
+      "poser": "cobblemon:electivire",
+      "model": "cobblemon:electivire_rival.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/electivire.png",
+      "layers": []
+    }
+  ]
+}
+

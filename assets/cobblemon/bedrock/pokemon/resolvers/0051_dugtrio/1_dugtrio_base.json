@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:dugtrio",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["summercrate"],
+      "poser": "cobblemon:dugtrio",
+      "model": "cobblemon:dugtrio_summer.geo",
+      "texture": "cobblemon:textures/pokemon/summercrate/dugtrio_summer.png",
+      "layers": []
+    },
+    {
+      "aspects": ["summercrate", "shiny"],
+      "texture": "cobblemon:textures/pokemon/summercrate/dugtrio_summer_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}
+

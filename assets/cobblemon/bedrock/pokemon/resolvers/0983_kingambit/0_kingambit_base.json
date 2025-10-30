@@ -1,0 +1,27 @@
+{
+  "species": "cobblemon:kingambit",
+  "order": 0,
+  "baseScale": 0.75,
+  "hitbox": {
+    "width": 0.5,
+    "height": 1,
+    "fixed": false
+  },
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:kingambit",
+      "model": "cobblemon:kingambit.geo",
+      "texture": "cobblemon:textures/pokemon/0983_kingambit/kingambit.png",
+      "layers": [
+      ] 
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/0983_kingambit/kingambit_shiny.png",
+      "layers": [
+       
+      ]
+    }
+  ]
+}

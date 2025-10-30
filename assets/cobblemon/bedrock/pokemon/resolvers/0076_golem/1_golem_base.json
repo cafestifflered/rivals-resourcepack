@@ -1,0 +1,40 @@
+{
+  "species": "cobblemon:golem",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["rivalcrate"],
+      "poser": "cobblemon:golem",
+      "model": "cobblemon:golem_rival.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/golem.png",
+      "layers": []
+    },
+    {
+      "aspects": ["crystalcrate"],
+      "poser": "cobblemon:golem",
+      "model": "cobblemon:golem.geo",
+      "texture": "cobblemon:textures/pokemon/crystalcrate/golem.png",
+      "layers": [
+        {
+        "name": "emissive",
+        "texture": {
+          "frames": [
+            "cobblemon:textures/pokemon/crystalcrate/golem_e.png"
+          ],
+          "fps": 0,
+          "loop": false,
+          "translucent": true
+        },
+        "emissive": true
+      },
+      {
+        "name": "emissive",
+        "emissive": true,
+        "texture": "cobblemon:textures/pokemon/crystalcrate/golem_e.png",
+        "translucent": true
+  }
+    ]
+    }
+  ]
+}
+

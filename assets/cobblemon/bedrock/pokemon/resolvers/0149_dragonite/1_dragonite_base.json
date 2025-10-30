@@ -1,0 +1,13 @@
+{
+  "species": "cobblemon:dragonite",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:dragonite",
+      "model": "cobblemon:dragonite_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/dragonite.png",
+      "layers": []
+    }
+  ]
+}

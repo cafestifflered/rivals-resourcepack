@@ -1,0 +1,24 @@
+{
+   "species":"cobblemon:espeon",
+   "order":2,
+   "variations":[
+      {
+         "aspects":[
+            "halloweencrate"
+         ],
+         "poser":"cobblemon:espeon",
+         "model":"cobblemon:halloween_espeon.geo",
+         "texture":"cobblemon:textures/pokemon/halloweencrate/espeon.png",
+         "layers":[]
+      },
+      {
+         "aspects":[
+            "halloweencrate" , "shiny"
+         ],
+         "poser":"cobblemon:espeon",
+         "model":"cobblemon:halloween_espeon.geo",
+         "texture":"cobblemon:textures/pokemon/halloweencrate/espeon_shiny.png",
+         "layers":[]
+      }
+   ]
+}

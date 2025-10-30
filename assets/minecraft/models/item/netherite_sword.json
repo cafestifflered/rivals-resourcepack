@@ -1,0 +1,12 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/netherite_sword"
+ },
+ 
+ "overrides": [
+  {"predicate": {"custom_model_data":2000}, "model": "item/other/starwars/purple_lightsaber"},
+  {"predicate": {"custom_model_data":8000}, "model": "item/bundles/medieval_bundle/war_elephant_tusk_sword"},
+  {"predicate": {"custom_model_data":8001}, "model": "item/bundles/trainer_bundle/trainer_sword"}
+]
+}

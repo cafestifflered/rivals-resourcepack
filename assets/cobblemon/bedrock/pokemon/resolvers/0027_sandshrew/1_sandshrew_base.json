@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:sandshrew",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:sandshrew",
+      "model": "cobblemon:sandshrew_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/sandshrew.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate2"],
+      "poser": "cobblemon:sandshrew",
+      "model": "cobblemon:sandshrew_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/sandshrew2.png",
+      "layers": []
+    }
+  ]
+}
+

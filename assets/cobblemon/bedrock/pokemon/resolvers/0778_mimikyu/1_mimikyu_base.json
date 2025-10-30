@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:mimikyu",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["summercrate"],
+      "poser": "cobblemon:mimikyu",
+      "model": "cobblemon:mimikyu_summer.geo",
+      "texture": "cobblemon:textures/pokemon/summercrate/mimikyu_summer.png",
+      "layers": []
+    },
+    {
+      "aspects": ["summercrate", "shiny"],
+      "texture": "cobblemon:textures/pokemon/summercrate/mimikyu_summer_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

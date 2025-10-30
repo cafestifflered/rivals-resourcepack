@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:urshifu",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:urshifu_singlestrike",
+      "model": "cobblemon:urshifu.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/urshifu.png",
+      "layers": []
+    }
+  ]
+}
+

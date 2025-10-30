@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:dudunsparce",
+  "order": 0,
+  "baseScale": 0.75,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:dudunsparce",
+      "model": "cobblemon:dudunsparce.geo",
+      "texture": "cobblemon:textures/pokemon/0982_dudunsparce/dudunsparce.png",
+      "layers": [
+      ] 
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/0982_dudunsparce/dudunsparce_shiny.png",
+      "layers": []
+    }
+  ]
+}

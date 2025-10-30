@@ -1,0 +1,22 @@
+{
+    "species": "cobblemon:bidoof",
+    "order": 2,
+    "variations": [
+      {
+        "aspects": ["brainrot"],
+        "poser": "cobblemon:bidoof_male",
+        "model": "cobblemon:bidoof_male_brainrot.geo",
+        "texture": "cobblemon:textures/pokemon/brainrot/bidoof.png",
+        "layers": []
+      },
+	  {
+        "aspects": ["female","brainrot"],
+        "poser": "cobblemon:bidoof_female",
+        "model": "cobblemon:bidoof_female_brainrot.geo",
+        "texture": "cobblemon:textures/pokemon/brainrot/bidoof.png",
+        "layers": []
+      }
+    ]
+  }
+  
+  

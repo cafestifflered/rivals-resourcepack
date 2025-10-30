@@ -1,0 +1,13 @@
+{
+  "species": "cobblemon:naganadel",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:naganadel",
+      "model": "cobblemon:naganadel.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/naganadel.png",
+      "layers": []
+    }
+  ]
+}

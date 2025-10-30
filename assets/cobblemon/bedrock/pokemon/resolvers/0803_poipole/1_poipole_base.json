@@ -1,0 +1,13 @@
+{
+  "species": "cobblemon:poipole",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:poipole",
+      "model": "cobblemon:poipole.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/poipole.png",
+      "layers": []
+    }
+  ]
+}

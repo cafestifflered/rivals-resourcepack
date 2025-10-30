@@ -1,0 +1,28 @@
+{
+  "species": "cobblemon:pikachu",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:pikachu",
+      "model": "cobblemon:pikachu_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/pikachu.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate2"],
+      "poser": "cobblemon:pikachu",
+      "model": "cobblemon:pikachu_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/pikachu2.png",
+      "layers": []
+    },
+    {
+      "aspects": ["crystalcrate"],
+      "poser": "cobblemon:pikachu",
+      "model": "cobblemon:pikachu_male.geo",
+      "texture": "cobblemon:textures/pokemon/crystalcrate/pikachu.png",
+      "layers": []
+    }
+  ]
+}
+

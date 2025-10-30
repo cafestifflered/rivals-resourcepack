@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:celebi",
+  "order": 1,
+  "variations": [
+    {
+      "poser": "cobblemon:celebi",
+      "model": "cobblemon:celebi.geo",
+      "texture": "cobblemon:textures/pokemon/0251_celebi/celebi.png"
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/0251_celebi/celebi_shiny.png"
+    }
+  ]
+}

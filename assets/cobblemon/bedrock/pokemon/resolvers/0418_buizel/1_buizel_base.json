@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:buizel",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["summercrate"],
+      "poser": "cobblemon:buizel",
+      "model": "cobblemon:buizel_summer_male.geo",
+      "texture": "cobblemon:textures/pokemon/summercrate/buizel_summer_male.png",
+      "layers": []
+    },
+    {
+      "aspects": ["summercrate", "shiny"],
+      "texture": "cobblemon:textures/pokemon/summercrate/buizel_summer_male_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}
+
+

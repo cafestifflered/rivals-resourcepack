@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:rapidash",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["medievalcrate"],
+      "poser": "cobblemon:rapidash",
+      "model": "cobblemon:rapidash_medieval.geo",
+      "texture": "cobblemon:textures/pokemon/medievalcrate/rapidash.png",
+      "layers": []
+    }
+  ]
+}
+

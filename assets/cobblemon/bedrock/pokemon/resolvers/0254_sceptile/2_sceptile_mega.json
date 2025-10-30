@@ -1,0 +1,43 @@
+{
+  "species": "cobblemon:sceptile",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["mega"],
+      "model": "cobblemon:sceptile_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0254_sceptile/sceptile_mega.png",
+      "layers": []
+    },
+    {
+      "aspects": ["mega", "shiny"],
+      "model": "cobblemon:sceptile_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0254_sceptile/sceptile_mega_shiny.png",
+      "layers": []
+    },
+    {
+      "aspects": ["mega", "crystalcrate"],
+      "model": "cobblemon:sceptile.geo",
+      "texture": "cobblemon:textures/pokemon/crystalcrate/sceptile.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/crystalcrate/sceptile_e.png"
+            ],
+            "fps": 0,
+            "loop": false,
+            "translucent": true
+          },
+          "emissive": true
+        },
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/crystalcrate/sceptile_e.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

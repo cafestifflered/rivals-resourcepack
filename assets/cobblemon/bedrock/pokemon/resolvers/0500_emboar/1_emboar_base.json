@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:emboar",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["rivalcrate"],
+      "poser": "cobblemon:emboar",
+      "model": "cobblemon:emboar.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/emboar.png",
+      "layers": []
+    }
+  ]
+}
+

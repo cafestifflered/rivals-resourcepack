@@ -1,0 +1,13 @@
+{
+  "species": "cobblemon:raticate",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["brainrot"],
+      "poser": "cobblemon:raticate",
+      "model": "cobblemon:raticate_brainrot.geo",
+      "texture": "cobblemon:textures/pokemon/brainrot/raticate.png",
+      "layers": []
+    }
+  ]
+}

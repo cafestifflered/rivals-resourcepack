@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:quagsire",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["rivalcrate"],
+      "poser": "cobblemon:quagsire",
+      "model": "cobblemon:quagsire_rival.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/quagsire.png",
+      "layers": []
+    }
+  ]
+}
+

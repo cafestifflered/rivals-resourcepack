@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:incineroar",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["medievalcrate"],
+      "poser": "cobblemon:incineroar",
+      "model": "cobblemon:incineroar_medieval.geo",
+      "texture": "cobblemon:textures/pokemon/medievalcrate/incineroar.png",
+      "layers": []
+    }
+  ]
+}
+

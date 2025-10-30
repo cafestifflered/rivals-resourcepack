@@ -1,0 +1,22 @@
+{
+    "species": "cobblemon:oinkologne",
+    "order": 2,
+    "variations": [
+      {
+        "aspects": ["rivalcrate"],
+        "poser": "cobblemon:oinkologne_male",
+        "model": "cobblemon:oinkologne_male_rival.geo",
+        "texture": "cobblemon:textures/pokemon/rivalcrate/oinkologne.png",
+        "layers": []
+      },
+	  {
+        "aspects": ["female","rivalcrate"],
+        "poser": "cobblemon:oinkologne_female",
+        "model": "cobblemon:oinkologne_female_rival.geo",
+        "texture": "cobblemon:textures/pokemon/rivalcrate/oinkologne.png",
+        "layers": []
+      }
+    ]
+  }
+  
+  

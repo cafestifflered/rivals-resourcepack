@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:lunala",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:lunala",
+      "model": "cobblemon:lunala.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/lunala.png",
+      "layers": []
+    }
+  ]
+}
+

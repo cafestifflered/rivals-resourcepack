@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/crate/crates_sprites/shiny_gryados_silver_bottle_caps"
+  }
+}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/brown_mushroom"},"overrides":[{"model":"genesisforms:item/max_mushrooms","predicate":{"custom_model_data":2}}]}

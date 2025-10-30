@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:sylveon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:sylveon",
+      "model": "cobblemon:sylveon_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/sylveon.png",
+      "layers": []
+    }
+  ]
+}
+

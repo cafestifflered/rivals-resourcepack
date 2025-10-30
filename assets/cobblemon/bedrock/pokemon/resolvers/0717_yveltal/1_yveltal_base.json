@@ -1,0 +1,12 @@
+{
+  "species": "cobblemon:yveltal",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:yveltal",
+      "model": "cobblemon:yveltal.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/yveltal.png"
+    }
+  ]
+}

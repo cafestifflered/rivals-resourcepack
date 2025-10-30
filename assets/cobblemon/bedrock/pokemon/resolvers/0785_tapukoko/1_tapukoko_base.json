@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:tapukoko",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:tapukoko",
+      "model": "cobblemon:tapukoko.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/tapukoko.png",
+      "layers": []
+    }
+  ]
+}
+

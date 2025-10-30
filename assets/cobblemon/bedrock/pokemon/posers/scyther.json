@@ -1,0 +1,52 @@
+{
+  "portraitScale": 2.2,
+  "portraitTranslation": [-0.4, 1.9, 0.0],
+  "profileScale": 0.6,
+  "profileTranslation": [0.0, 0.8, 0.0],
+  "rootBone": "scyther",
+  "animations": {
+    "cry": "q.bedrock_stateful('scyther', 'cry')"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseName": "battle-standing",
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": ["q.look('head')", "q.bedrock('scyther', 'battle_idle')"],
+	  "namedAnimations": {
+            "cry": "q.bedrock_primary('scyther', 'battle_cry', q.curve('symmetrical_wide'))"
+          },
+      "quirks": ["q.bedrock_quirk('scyther', 'blink')"]
+    },
+	"standing": {
+      "poseTypes": ["STAND", "NONE", "FLOAT", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": ["q.look('head')", "q.bedrock('scyther', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('scyther', 'blink')"]
+    },
+    "walking": {
+      "poseTypes": ["WALK", "SWIM"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('scyther', 'ground_walk')"
+      ],
+      "quirks": ["q.bedrock_quirk('scyther', 'blink')"]
+    },
+	"hover": {
+      "poseTypes": ["HOVER"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('scyther', 'air_idle')"
+      ],
+      "quirks": ["q.bedrock_quirk('scyther', 'blink')"]
+    },
+	"fly": {
+      "poseTypes": ["FLY"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('scyther', 'air_walk')"
+      ],
+      "quirks": ["q.bedrock_quirk('scyther', 'blink')"]
+    }
+  }
+}

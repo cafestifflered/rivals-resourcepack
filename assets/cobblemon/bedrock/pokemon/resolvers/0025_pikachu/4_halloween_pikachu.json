@@ -1,0 +1,35 @@
+{
+  "species": "cobblemon:pikachu",
+  "order": 2,
+  "variations": [
+      {
+         "aspects":[
+            "halloweencrate"
+         ],
+         "poser":"cobblemon:pikachu",
+         "model":"cobblemon:pikachu_halloween.geo",
+         "texture":"cobblemon:textures/pokemon/halloweencrate/pikachu.png",
+         "layers":[
+        {
+        "name": "emissive",
+        "texture": {
+          "frames": [
+            "cobblemon:textures/pokemon/halloweencrate/pikachu_emissive.png"
+          ],
+          "fps": 0,
+          "loop": false,
+          "translucent": true
+        },
+        "emissive": true
+      },
+      {
+        "name": "emissive",
+        "emissive": true,
+        "texture": "cobblemon:textures/pokemon/halloweencrate/pikachu_emissive.png",
+        "translucent": true
+  }
+         ]
+      }
+  ]
+}
+

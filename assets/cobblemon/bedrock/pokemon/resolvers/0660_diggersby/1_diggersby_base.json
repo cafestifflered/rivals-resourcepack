@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:diggersby",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["brainrot"],
+      "poser": "cobblemon:diggersby",
+      "model": "cobblemon:diggersby_brainrot.geo",
+      "texture": "cobblemon:textures/pokemon/brainrot/diggersby.png",
+      "layers": []
+    },
+    {
+      "aspects": ["rivalcrate"],
+      "poser": "cobblemon:diggersby",
+      "model": "cobblemon:diggersby.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/diggersby.png",
+      "layers": []
+    }
+  ]
+}
+

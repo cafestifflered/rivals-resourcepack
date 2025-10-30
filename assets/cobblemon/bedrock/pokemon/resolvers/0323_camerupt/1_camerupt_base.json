@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:camerupt",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["rivalcrate"],
+      "poser": "cobblemon:camerupt",
+      "model": "cobblemon:camerupt_rival.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/camerupt.png",
+      "layers": []
+    }
+  ]
+}
+

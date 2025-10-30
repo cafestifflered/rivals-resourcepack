@@ -1,0 +1,13 @@
+{
+  "species": "cobblemon:regidrago",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:regidrago",
+      "model": "cobblemon:regidrago.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/regidrago.png",
+      "layers": []
+    }
+  ]
+}

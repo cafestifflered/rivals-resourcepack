@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:celebi",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:celebi",
+      "model": "cobblemon:celebi_shadow.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/celebi.png",
+      "layers": []
+    }
+  ]
+}
+

@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:hariyama",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["medievalcrate"],
+      "poser": "cobblemon:hariyama",
+      "model": "cobblemon:hariyama_medieval.geo",
+      "texture": "cobblemon:textures/pokemon/medievalcrate/hariyama.png",
+      "layers": []
+    },
+    {
+      "aspects": ["rivalcrate"],
+      "poser": "cobblemon:hariyama",
+      "model": "cobblemon:hariyama_rival.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/hariyama.png",
+      "layers": []
+    }
+  ]
+}
+

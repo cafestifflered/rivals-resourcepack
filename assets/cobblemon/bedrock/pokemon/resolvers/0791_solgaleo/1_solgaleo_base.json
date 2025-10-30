@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:solgaleo",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:solgaleo",
+      "model": "cobblemon:solgaleo.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/solgaleo.png",
+      "layers": []
+    }
+  ]
+}
+

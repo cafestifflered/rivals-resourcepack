@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:calyrex",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:calyrex",
+      "model": "cobblemon:calyrex.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/calyrex.png"
+    },
+    {
+      "aspects": ["shadowlegend", "ice"],
+      "poser": "cobblemon:calyrex_ice_rider",
+      "model": "cobblemon:calyrex_ice_rider.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/calyrex_ice_rider.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shadowlegend", "shadow"],
+      "poser": "cobblemon:calyrex_shadow_rider",
+      "model": "cobblemon:calyrex_shadow_rider.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/calyrex_shadow_rider_shiny.png"
+    }
+  ]
+}

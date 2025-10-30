@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:sentret",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:sentret",
+      "model": "cobblemon:sentret_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/sentret.png",
+      "layers": []
+    }
+  ]
+}
+

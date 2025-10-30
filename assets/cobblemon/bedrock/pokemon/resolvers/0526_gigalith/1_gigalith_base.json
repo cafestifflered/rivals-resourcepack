@@ -1,0 +1,54 @@
+{
+  "species": "cobblemon:gigalith",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:gigalith",
+      "model": "cobblemon:gigalith_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/gigalith.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate2"],
+      "poser": "cobblemon:gigalith",
+      "model": "cobblemon:gigalith_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/gigalith2.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate3"],
+      "poser": "cobblemon:gigalith",
+      "model": "cobblemon:gigalith_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/gigalith3.png",
+      "layers": []
+    },
+    {
+      "aspects": ["crystalcrate"],
+      "poser": "cobblemon:gigalith",
+      "model": "cobblemon:gigalith.geo",
+      "texture": "cobblemon:textures/pokemon/crystalcrate/gigalith.png",
+      "layers": [
+        {
+        "name": "emissive",
+        "texture": {
+          "frames": [
+            "cobblemon:textures/pokemon/crystalcrate/gigalith_e.png"
+          ],
+          "fps": 0,
+          "loop": false,
+          "translucent": true
+        },
+        "emissive": true
+      },
+      {
+        "name": "emissive",
+        "emissive": true,
+        "texture": "cobblemon:textures/pokemon/crystalcrate/gigalith_e.png",
+        "translucent": true
+  }
+    ]
+    }
+  ]
+}
+

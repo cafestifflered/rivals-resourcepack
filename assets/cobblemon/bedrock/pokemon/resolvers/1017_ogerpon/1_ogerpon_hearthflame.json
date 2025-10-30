@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:ogerpon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["hearthflame-mask"],
+      "poser": "cobblemon:ogerpon",
+      "model": "cobblemon:ogerpon_hearthflame.geo",
+      "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_hearthflame.png"
+    },
+    {
+      "aspects": [
+        "hearthflame-mask",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_hearthflame_shiny.png"
+    }
+  ]
+}

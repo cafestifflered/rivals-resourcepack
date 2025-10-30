@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:tinkatink",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["crystalcrate"],
+      "poser": "cobblemon:tinkatink",
+      "model": "cobblemon:tinkatink.geo",
+      "texture": "cobblemon:textures/pokemon/crystalcrate/tinkatink.png",
+      "layers": [
+        {
+        "name": "emissive",
+        "texture": {
+          "frames": [
+            "cobblemon:textures/pokemon/crystalcrate/tinkatink_e.png"
+          ],
+          "fps": 0,
+          "loop": false,
+          "translucent": true
+        },
+        "emissive": true
+      },
+      {
+        "name": "emissive",
+        "emissive": true,
+        "texture": "cobblemon:textures/pokemon/crystalcrate/tinkatink_e.png",
+        "translucent": true
+  }
+    ]
+    }
+  ]
+}
+

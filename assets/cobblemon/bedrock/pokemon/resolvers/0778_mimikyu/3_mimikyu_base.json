@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:mimikyu",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["pipikyu"],
+      "poser": "cobblemon:pipikyu",
+      "model": "cobblemon:pipikyu.geo",
+      "texture": "cobblemon:textures/pokemon/0778_mimikyu/pipikyu.png",
+      "layers": []
+    }
+  ]
+}
+

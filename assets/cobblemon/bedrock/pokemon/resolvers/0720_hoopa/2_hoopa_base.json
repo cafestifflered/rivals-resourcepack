@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:hoopa",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:hoopa",
+      "model": "cobblemon:hoopa.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/hoopa.png",
+      "layers": []
+    }
+  ]
+}
+

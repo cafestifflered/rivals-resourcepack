@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:buneary",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["crystalcrate"],
+      "poser": "cobblemon:buneary",
+      "model": "cobblemon:buneary.geo",
+      "texture": "cobblemon:textures/pokemon/crystalcrate/buneary.png",
+      "layers": [
+        {
+        "name": "emissive",
+        "texture": {
+          "frames": [
+            "cobblemon:textures/pokemon/crystalcrate/buneary_e.png"
+          ],
+          "fps": 0,
+          "loop": false,
+          "translucent": true
+        },
+        "emissive": true
+      },
+      {
+        "name": "emissive",
+        "emissive": true,
+        "texture": "cobblemon:textures/pokemon/crystalcrate/buneary_e.png",
+        "translucent": true
+  }
+    ]
+    }
+  ]
+}
+

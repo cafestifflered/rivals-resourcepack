@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "neodaycare:item/egg_sprite_incompatible"
+  }
+}

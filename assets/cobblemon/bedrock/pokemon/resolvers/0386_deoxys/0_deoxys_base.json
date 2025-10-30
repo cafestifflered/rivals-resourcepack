@@ -1,0 +1,28 @@
+{
+  "species": "cobblemon:deoxys",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:deoxys",
+      "model": "cobblemon:deoxys.geo",
+      "texture": "cobblemon:textures/pokemon/0386_deoxys/deoxys.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/0386_deoxys/deoxys_shiny.png"
+    },
+    {
+      "aspects": ["normal-forme"],
+      "poser": "cobblemon:deoxys",
+      "model": "cobblemon:deoxys.geo",
+      "texture": "cobblemon:textures/pokemon/0386_deoxys/deoxys.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "normal-forme", "shiny" ],
+      "texture": "cobblemon:textures/pokemon/0386_deoxys/deoxys_shiny.png"
+    }
+  ]
+}

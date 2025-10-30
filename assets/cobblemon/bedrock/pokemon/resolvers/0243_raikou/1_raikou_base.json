@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:raikou",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:raikou",
+      "model": "cobblemon:raikou.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/raikou.png",
+      "layers": []
+    }
+  ]
+}
+

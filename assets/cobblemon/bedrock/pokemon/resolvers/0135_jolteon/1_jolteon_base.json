@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:jolteon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["staffcrate"],
+      "poser": "cobblemon:jolteon",
+      "model": "cobblemon:jolteon_staff.geo",
+      "texture": "cobblemon:textures/pokemon/staffcrate/jolteon.png",
+      "layers": []
+    }
+  ]
+}
+

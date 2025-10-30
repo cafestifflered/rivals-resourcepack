@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:articuno",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:articuno",
+      "model": "cobblemon:articuno.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/articuno.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shadowlegend", "galarian"],
+      "poser": "cobblemon:articuno_galar",
+      "model": "cobblemon:articuno_galar.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/articuno_galar.png",
+      "layers": []
+    }
+  ]
+}

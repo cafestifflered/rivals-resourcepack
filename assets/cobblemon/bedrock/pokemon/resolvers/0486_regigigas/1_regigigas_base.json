@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:regigigas",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["rivalcrate"],
+      "poser": "cobblemon:regigigas",
+      "model": "cobblemon:regigigas_rival.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/regigigas.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:regigigas",
+      "model": "cobblemon:regigigas.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/regigigas.png",
+      "layers": []
+    }
+  ]
+}
+

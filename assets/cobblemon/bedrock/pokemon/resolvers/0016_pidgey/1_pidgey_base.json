@@ -1,0 +1,28 @@
+{
+  "species": "cobblemon:pidgey",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:pidgey",
+      "model": "cobblemon:pidgey_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/pidgey.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate2"],
+      "poser": "cobblemon:pidgey",
+      "model": "cobblemon:pidgey_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/pidgey2.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate3"],
+      "poser": "cobblemon:pidgey",
+      "model": "cobblemon:pidgey_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/pidgey3.png",
+      "layers": []
+    }
+  ]
+}
+

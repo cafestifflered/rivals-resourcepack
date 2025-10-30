@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:darkrai",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:darkrai",
+      "model": "cobblemon:darkrai.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/darkrai.png",
+      "layers": []
+    }
+  ]
+}
+

@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:mimikyu",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["eiskyu"],
+      "poser": "cobblemon:eiskyu",
+      "model": "cobblemon:eiskyu.geo",
+      "texture": "cobblemon:textures/pokemon/0778_mimikyu/eiskyu.png",
+      "layers": []
+    }
+  ]
+}
+

@@ -1,0 +1,102 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.applin_summer.ground_idle": {
+			"loop": true,
+			"bones": {
+				"torso1": {
+					"rotation": [7.5, 0, 0]
+				},
+				"tail": {
+					"rotation": [42.5, 0, "math.sin(q.anim_time*90*2+125)*6"]
+				},
+				"torso2": {
+					"rotation": [30, 0, 0],
+					"position": [0, 1, 0]
+				},
+				"tail2": {
+					"rotation": [10, 0, "math.sin(q.anim_time*90*2+125)*6"]
+				},
+				"left_spine": {
+					"rotation": [-10, 12.5, 0]
+				},
+				"right_spine": {
+					"rotation": [-10, -12.5, 0]
+				},
+				"apple": {
+					"rotation": ["-math.sin(q.anim_time*90*2+90)*2", 0, "math.sin(q.anim_time*90*2)*1"]
+				},
+				"tail3": {
+					"rotation": [0, 0, "math.sin(q.anim_time*90*2+125)*6"]
+				},
+				"left_eye": {
+					"rotation": ["-2.25+math.sin(q.anim_time*90*2-60)*3", 0, 0]
+				},
+				"right_eye": {
+					"rotation": ["-2.25+math.sin(q.anim_time*90*2-60)*3", 0, 0]
+				}
+			}
+		},
+		"animation.applin_summer.sleep": {
+			"loop": true,
+			"animation_length": 4,
+			"bones": {
+				"torso1": {
+					"rotation": [7.5, 0, 0]
+				},
+				"tail": {
+					"position": [0, 2, 0]
+				},
+				"torso2": {
+					"rotation": [30, 0, 0],
+					"position": [0, 1, 0]
+				},
+				"tail2": {
+					"position": [0, 2, 0]
+				},
+				"left_spine": {
+					"rotation": [-10, 12.5, 0]
+				},
+				"right_spine": {
+					"rotation": [-10, -12.5, 0]
+				},
+				"apple": {
+					"rotation": ["-math.sin(q.anim_time*90*2+90)*2", 0, "math.sin(q.anim_time*90*2)*1"]
+				},
+				"tail3": {
+					"position": [0, 2, 0]
+				},
+				"left_eye": {
+					"position": [-1, -5, 2]
+				},
+				"right_eye": {
+					"position": [1, -5, 1]
+				},
+				"left_eye_closed": {
+					"rotation": {
+						"0.0": ["-2.25+math.sin(q.anim_time*90*2-60)*3", 0, 0],
+						"2.0": ["17.75+math.sin(q.anim_time*90*2-60)*3", 0, 0]
+					},
+					"position": {
+						"0.0": [1, 8, -2.6],
+						"0.7083": [1, 7.64, -2.32],
+						"2.0": [1, 7, -1.6],
+						"4.0": [1, 8, -2.6]
+					}
+				},
+				"right_eye_closed": {
+					"rotation": {
+						"0.0": ["-2.25+math.sin(q.anim_time*90*2-60)*3", 0, 0],
+						"2.0": ["17.75+math.sin(q.anim_time*90*2-60)*3", 0, 0]
+					},
+					"position": {
+						"0.0": [-1, 8, -2.6],
+						"0.7083": [-1, 7.64, -2.32],
+						"2.0": [-1, 7, -1.6],
+						"4.0": [-1, 8, -2.6]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/leather_horse_armor"
+ },
+ 
+ "overrides": [
+  {"predicate":{"custom_model_data":1},"model": "item/other/nothing/paint_button"},
+  {"predicate":{"custom_model_data":2},"model": "item/cosmetics/hats/chefs_hat"},
+  {"predicate":{"custom_model_data":3},"model": "item/cosmetics/hats/mustache_glasses"},
+  {"predicate":{"custom_model_data":4},"model": "item/cosmetics/hats/crown"},
+  {"predicate":{"custom_model_data":5},"model": "item/cosmetics/hats/feather_cap"},
+  {"predicate":{"custom_model_data":6},"model": "item/cosmetics/hats/top_hat"},
+  {"predicate":{"custom_model_data":7},"model": "item/cosmetics/hats/knight_helmet"},
+  {"predicate":{"custom_model_data":8},"model": "item/cosmetics/hats/witch_hat"},
+
+  {"predicate":{"custom_model_data":500},"model": "item/cosmetics/hats/magikarp"},
+  {"predicate":{"custom_model_data":501},"model": "item/cosmetics/hats/magikarp_shiny"},
+  {"predicate":{"custom_model_data":502},"model": "item/cosmetics/hats/psyduck"},
+  {"predicate":{"custom_model_data":503},"model": "item/cosmetics/hats/psyduck_shiny"},
+  {"predicate":{"custom_model_data":1000},"model": "item/placeables/scarecrow"}
+]
+}

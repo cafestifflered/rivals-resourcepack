@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/crate/crate_keys/halloween_key"
+  }
+}

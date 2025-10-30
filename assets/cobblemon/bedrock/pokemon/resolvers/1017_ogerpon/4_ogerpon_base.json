@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:ogerpon",
+  "order": 4,
+  "variations": [
+    {
+      "aspects": ["shadowlegend", "teal-mask"],
+      "poser": "cobblemon:ogerpon",
+      "model": "cobblemon:ogerpon_teal.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/ogerpon_teal.png"
+    },
+    {
+      "aspects": ["shadowlegend","hearthflame-mask"],
+      "poser": "cobblemon:ogerpon",
+      "model": "cobblemon:ogerpon_hearthflame.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/ogerpon_hearthflame.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shadowlegend","wellspring-mask"],
+      "poser": "cobblemon:ogerpon",
+      "model": "cobblemon:ogerpon_wellspring.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/ogerpon_wellspring.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shadowlegend","cornerstone-mask"],
+      "poser": "cobblemon:ogerpon",
+      "model": "cobblemon:ogerpon_cornerstone.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/ogerpon_cornerstone.png",
+      "layers": []
+    }
+  ]
+}

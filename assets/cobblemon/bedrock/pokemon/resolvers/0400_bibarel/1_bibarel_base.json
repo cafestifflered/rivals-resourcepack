@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:bibarel",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["brainrot"],
+      "poser": "cobblemon:bibarel",
+      "model": "cobblemon:bibarel_brainrot.geo",
+      "texture": "cobblemon:textures/pokemon/brainrot/bibarel.png",
+      "layers": []
+    }
+  ]
+}
+

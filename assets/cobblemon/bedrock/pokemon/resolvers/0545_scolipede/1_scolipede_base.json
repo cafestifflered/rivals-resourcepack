@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:scolipede",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["brainrot"],
+      "poser": "cobblemon:scolipede",
+      "model": "cobblemon:scolipede_brainrot.geo",
+      "texture": "cobblemon:textures/pokemon/brainrot/scolipede.png",
+      "layers": []
+    }
+  ]
+}
+

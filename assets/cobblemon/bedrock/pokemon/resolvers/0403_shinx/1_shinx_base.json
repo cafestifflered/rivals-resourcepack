@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:shinx",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:shinx",
+      "model": "cobblemon:shinx_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/shinx.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate2"],
+      "poser": "cobblemon:shinx",
+      "model": "cobblemon:shinx_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/shinx2.png",
+      "layers": []
+    }
+  ]
+}
+

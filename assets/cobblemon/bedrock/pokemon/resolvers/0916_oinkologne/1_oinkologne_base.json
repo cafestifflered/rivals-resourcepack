@@ -1,0 +1,15 @@
+{
+    "species": "cobblemon:oinkologne",
+    "order": 1,
+    "variations": [
+      {
+        "aspects": ["rivalcrate"],
+        "poser": "cobblemon:oinkologne",
+        "model": "cobblemon:oinkologne_rival.geo",
+        "texture": "cobblemon:textures/pokemon/rivalcrate/oinkologne.png",
+        "layers": []
+      }
+    ]
+  }
+  
+  

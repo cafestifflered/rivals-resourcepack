@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:cosmog",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:cosmog",
+      "model": "cobblemon:cosmog.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/cosmog.png",
+      "layers": []
+    }
+  ]
+}
+

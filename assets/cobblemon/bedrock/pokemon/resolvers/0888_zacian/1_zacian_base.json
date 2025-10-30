@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:zacian",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:zacian",
+      "model": "cobblemon:zacian.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/zacian.png",
+      "layers": []
+    }
+  ]
+}
+

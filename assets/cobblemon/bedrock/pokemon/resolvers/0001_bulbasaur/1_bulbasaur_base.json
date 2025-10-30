@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:bulbasaur",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["trainercrate"],
+      "poser": "cobblemon:bulbasaur",
+      "model": "cobblemon:bulbasaur_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/bulbasaur.png",
+      "layers": []
+    },
+    {
+      "aspects": ["trainercrate2"],
+      "poser": "cobblemon:bulbasaur",
+      "model": "cobblemon:bulbasaur_trainer.geo",
+      "texture": "cobblemon:textures/pokemon/trainercrate/bulbasaur2.png",
+      "layers": []
+    }
+  ]
+}
+

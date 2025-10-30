@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:moltres",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:moltres",
+      "model": "cobblemon:moltres.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/moltres.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shadowlegend", "galarian"],
+      "poser": "cobblemon:moltres_galar",
+      "model": "cobblemon:moltres_galar.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/moltres_galar.png",
+      "layers": []
+    }
+  ]
+}
+

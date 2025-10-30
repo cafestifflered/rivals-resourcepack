@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:magmortar",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["brainrot"],
+      "poser": "cobblemon:magmortar",
+      "model": "cobblemon:magmortar_brainrot.geo",
+      "texture": "cobblemon:textures/pokemon/brainrot/magmortar.png",
+      "layers": []
+    }
+  ]
+}
+

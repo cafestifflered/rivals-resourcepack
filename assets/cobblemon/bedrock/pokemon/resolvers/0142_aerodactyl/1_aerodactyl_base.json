@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:aerodactyl",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["medievalcrate"],
+      "poser": "cobblemon:aerodactyl",
+      "model": "cobblemon:aerodactyl_medieval.geo",
+      "texture": "cobblemon:textures/pokemon/medievalcrate/aerodactyl.png",
+      "layers": []
+    }
+  ]
+}
+

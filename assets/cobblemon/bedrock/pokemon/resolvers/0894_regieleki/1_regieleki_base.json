@@ -1,0 +1,13 @@
+{
+  "species": "cobblemon:regieleki",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shadowlegend"],
+      "poser": "cobblemon:regieleki",
+      "model": "cobblemon:regieleki.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlegend/regieleki.png",
+      "layers": []
+    }
+  ]
+}

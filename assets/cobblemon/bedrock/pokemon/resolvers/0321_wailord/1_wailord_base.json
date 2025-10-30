@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:wailord",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["rivalcrate"],
+      "poser": "cobblemon:wailord",
+      "model": "cobblemon:wailord_rival.geo",
+      "texture": "cobblemon:textures/pokemon/rivalcrate/wailord.png",
+      "layers": []
+    }
+  ]
+}
+

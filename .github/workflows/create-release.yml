@@ -1,0 +1,87 @@
+name: Create Resource Pack Release
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Fetch full history
+    
+    - name: Configure Git
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+    
+    - name: Remove old release files
+      run: |
+        rm -f release.zip
+        rm -f *.zip
+    
+    - name: Create Resource Pack Archive
+      uses: thedoctor0/zip-release@0.7.5
+      with:
+        type: 'zip'
+        filename: 'release.zip'
+        exclusions: |
+          *.git*
+          *.github*
+          *node_modules*
+          *.editorconfig
+          *.gitignore
+          *.md
+          README*
+          LICENSE*
+          .DS_Store
+          Thumbs.db
+    
+    - name: Verify archive contents
+      run: |
+        echo "Archive created successfully!"
+        ls -la release.zip
+        unzip -l release.zip | head -20
+    
+    - name: Commit and push release
+      run: |
+        git add release.zip
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🎮 Auto-generated resource pack release - $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
+        fi
+    
+    - name: Update release tag
+      run: |
+        git tag -f release
+        git push origin --tags --force
+    
+    - name: Create GitHub Release
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: release
+        name: "Latest Resource Pack Release"
+        body: |
+          🎮 **Cobblemon Rivals Resource Pack**
+          
+          Automatically generated resource pack for Minecraft servers.
+          
+          **Usage:**
+          - Download `release.zip` and upload to your server
+          - Or use the direct URL in ForcePacks: `https://github.com/${{ github.repository }}/releases/download/release/release.zip`
+          
+          **Generated:** ${{ github.event.head_commit.timestamp }}
+          **Commit:** ${{ github.sha }}
+        files: |
+          release.zip
+        prerelease: false
+        make_latest: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
